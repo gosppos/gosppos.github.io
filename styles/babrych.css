@@ -6,4 +6,11 @@ body
     flex-flow: column;
     align-items: center;
 }
-
+#hat
+{
+    background-color:black;
+}
+#pic1
+{
+    height: 60px;
+}
