@@ -5,9 +5,6 @@ body
     display: flex;
     flex-flow: column;
     align-items: center;
-}
-#hat
-{
     background-color:black;
 }
 #pic1
