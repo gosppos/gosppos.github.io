@@ -1,11 +1,12 @@
 
 body
 {
-    margin:0px;
+    padding:1px,;
     display: flex;
     flex-flow: column;
     align-items: center;
     background-color:black;
+    color:white;
 }
 #pic1
 {
