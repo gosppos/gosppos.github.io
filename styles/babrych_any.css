@@ -15,3 +15,7 @@ body
 {
     max-width: 80%;
 }
+div
+{
+    justify-content: center;
+}
